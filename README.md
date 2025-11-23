@@ -5,4 +5,4 @@ abcabc readme
 
 import random
 
-abc = int abc
+abc = int ab
